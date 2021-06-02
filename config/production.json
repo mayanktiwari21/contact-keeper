@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://dbMayank:mt@@2104@cluster0.ejtiq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
